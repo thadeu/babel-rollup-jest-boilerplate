@@ -1,0 +1,17 @@
+node_modules/
+.vscode
+yarn-error.log
+yarn.lock
+coverage
+.nyc_output
+*.swp
+.DS_Store
+lib
+/dist
+/test-reports
+/node_modules
+/npm-debug.log
+.DS_Store
+.idea
+.reify-cache
+flow-typed
